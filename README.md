@@ -1,4 +1,4 @@
-Stock Market Prediction and Forecasting Using Stacked LSTM
+##Stock Market Prediction and Forecasting Using Stacked LSTM
 Project Description
 This Jupyter Notebook provides a comprehensive workflow for time series prediction of Apple Inc. (AAPL) stock prices using a deep learning model based on stacked LSTM layers. The notebook demonstrates every step required for data collection, preprocessing, feature engineering, neural network modeling, and visualization, using current best practices in Python and Keras/Tensorflow.​
 Key Steps and Workflow
