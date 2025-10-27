@@ -40,3 +40,13 @@ This Jupyter Notebook provides a comprehensive workflow for **time series predic
 ### 7. Visualization
 - Plots **original time series**, **train/test predictions**, and **future forecasts**.  
 - **Matplotlib** used for all graphing operations.
+
+  ---
+
+## 📬 Contact
+**Author:** Shaik Asad  
+**Role:** Data Analyst / Business Analyst  
+**Email:** shaikasad2567@gmail.com  
+**LinkedIn:** *https://www.linkedin.com/in/shaik-asad-82999a227/*  
+
+---
