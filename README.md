@@ -26,7 +26,7 @@ This Jupyter Notebook provides a comprehensive workflow for **time series predic
   - LSTM: 50 units, `return_sequences=True` on first two layers  
   - Output: Dense layer for regression  
 - Compiles with **mean squared error (MSE)** and **Adam optimizer**.
-
+  
 ### 5. Model Training and Evaluation
 - Trains for **100 epochs**, outputs loss and validation loss per epoch.  
 - Uses trained model to predict on **training and test sets**.  
